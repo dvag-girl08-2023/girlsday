@@ -30,6 +30,10 @@ Dort ist eine direkte Preview eingebaut, so dass man direkt experimentieren kann
 Wenn noch kein CodeSpace angelegt wurde einfach 
 ![img.png](.img/img.png)
 
+oder den vorhandenen Starten
+
+![img.png](.img/codespacestart.png)
+
 ### Extensions Installieren
 LiveServer für Preview der HTML Dateien
 ![img.png](.img/liveserver.png)
