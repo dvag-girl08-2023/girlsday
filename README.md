@@ -4,19 +4,19 @@
 Jeder Teilnehmer*in erhält einen eigenen Github Zugang. 
 Die sind alle durchnummeriert von 01 - 08
 
-https://github.com/dvag-girlsday-0[1-8]/girlsday
-- Benutzername: dvag-girlsday-0[1-8]
+https://github.com/dvag-girl0[1-8]-2023/girlsday
+- Benutzername: dvag-girl0[1-8]-2023
 - Benutzername: girlsday2023
 
 Sobald der Stand commited wird, ist das Ergebnis unter der
 jeweiligen Githup Page erreichbar. Hier wieder die richtige Girl Nummer ersetzen.
-https://dvag-girlsday-0[1-8].github.io/girlsday/
+https://dvag-girl0[1-8]-2023.github.io/girlsday/
 
 Also Girl06 hat folgende Urls: 
 
-* [Github Account](https://github.com/dvag-girlsday-06/girlsday)
-* [Github Page](https://dvag-girlsday-06.github.io/girlsday/)
-* [Beispiel Kuchenrezept](https://dvag-girlsday-06.github.io/girlsday/Beispiel.html)
+* [Github Account](https://github.com/dvag-girl06-2023/girlsday)
+* [Github Page](https://dvag-girl06-2023.github.io/girlsday/)
+* [Beispiel Kuchenrezept](https://dvag-girl06-2023.github.io/girlsday/Beispiel.html)
 
 Es sind also gesamt 8 Zugänge angelegt, die dann auch von den Teilnehmenden behalten werden können. 
 
